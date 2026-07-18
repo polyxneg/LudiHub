@@ -48,7 +48,10 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSBluetoothAlwaysUsageDescription": "LudiHub uses Bluetooth to read your game controller's battery level."
         }
