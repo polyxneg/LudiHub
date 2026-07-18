@@ -1,88 +1,59 @@
 {
-"name": 
-"LudiHub - Gaming Launcher",
-"bundleIdentifier": 
-"app.ludihub.launcher",
-"marketplaceID": 
-"",
-"developerName": 
-"Polydoros Karampougikis",
-"subtitle": 
-"Gaming Launcher",
-"localizedDescription": 
-"LudiHub for iPhone requires an iPhone with a minimum screen size of 5.4". iPhone SE models are not supported. LudiHub doesn't include any games. You have to add your own games. LudiHub organizes all your games in one beautiful, customizable launcher with full controller support. LudiHub brings a console-like experience to your device, designed specifically for gamers who want a streamlined, console-like experience. Launch different shortcuts, add your own games and organize everything in a stunning interface that you control. ​ BEAUTIFUL THEMES & CUSTOMIZATION Choose from pre-built themes or create your own with custom wallpapers. The optional Clear Glass effect lets your wallpaper shine through for a truly personalized experience. ​ FULL CONTROLLER SUPPORT Navigate your entire game library with universal controller support. Every feature is optimized for controller input. CREATE SHORTCUTS Create and link your own shortcuts. Launch installed games, emulator shortcuts, web links or whatever shortcut you want. CREATE COLLECTIONS You can create folders and sort your games into collections EASY GAME MANAGEMENT Add games in seconds using the share button from the home screen, or enter them manually. GAME IMAGE SCRAPING LudiHub supports SteamGridDB for game image scraping. RETROACHIEVEMENTS Track your retro game progress in the achievement view. DEEPLINK SUPPORT LudiHub detects deeplinks for games of the following emulators when adding a custom game: Delta, Gamma, ManicEmu, JoyEmu, MeloNX, XeniOS, PPSSPP, DukeX, Armsx2, RetroArch and Provenance. It also supports normal URLs and deeplinks. IMPORT GAMES You can import the games from your favorite emulators with one tap! ​ DESIGNED FOR GAMERS Customizable for your owned individual preference Organize games your way Touch and controller-optimized interface",
-"iconURL": 
-"https://i.imgur.com/003AgnQ.png",
-"tintColor": 
-"#0cb4dc",
-"category": 
-"utilities",
-"screenshots": 
-{
-"iphone": 
-[
-"https://i.imgur.com/5DDEwsq.png",
-"https://i.imgur.com/nlezVlo.png",
-"https://i.imgur.com/xbEups5.png",
-"https://i.imgur.com/y4aEVBz.png",
-"https://i.imgur.com/qwG5o94.png",
-"https://i.imgur.com/po7ScU2.jpeg"
-],
-"ipad": 
-[
-{
-"imageURL": 
-"https://i.imgur.com/2tZT3vd.jpeg",
-"width": 
-2732,
-"height": 
-2048
-},
-{
-"imageURL": 
-"https://i.imgur.com/nBa1uO1.png",
-"width": 
-2732,
-"height": 
-2048
-},
-{
-"imageURL": 
-"https://i.imgur.com/Q6XM81u.jpeg",
-"width": 
-2732,
-"height": 
-2048
-}
-]
-},
-"versions": 
-[
-{
-"downloadURL": 
-"https://github.com/polyxneg/LudiHub/releases/download/2.0.6/LudiHub.ipa",
-"size": 
-10500000,
-"version": 
-"2.0.6",
-"buildVersion": 
-null,
-"date": 
-"2026-07-17T12:35:00+02:00",
-"localizedDescription": 
-"You can now import games from RetroArch (Available in the latest RetroArch Beta) Fixed some bugs on the iPad that caused certain UI elements to not behave properly when returning to the app.",
-"minOSVersion": 
-null
-}
-],
-"appPermissions": 
-{
-"entitlements": 
-[...],
-"privacy": 
-{...}
-},
-"patreon": 
-{
-}
+  "name": "Polydoros' Source",
+  "identifier": "app.ludihub.source",
+  "apps": [
+    {
+      "name": "LudiHub - Gaming Launcher",
+      "bundleIdentifier": "app.ludihub.launcher",
+      "developerName": "Polydoros Karampougikis",
+      "subtitle": "Gaming Launcher",
+      "localizedDescription": "LudiHub for iPhone requires an iPhone with a minimum screen size of 5.4\". iPhone SE models are not supported. LudiHub doesn't include any games. You have to add your own games. LudiHub organizes all your games in one beautiful, customizable launcher with full controller support. LudiHub brings a console-like experience to your device, designed specifically for gamers who want a streamlined, console-like experience. Launch different shortcuts, add your own games and organize everything in a stunning interface that you control.  BEAUTIFUL THEMES & CUSTOMIZATION Choose from pre-built themes or create your own with custom wallpapers. The optional Clear Glass effect lets your wallpaper shine through for a truly personalized experience.  FULL CONTROLLER SUPPORT Navigate your entire game library with universal controller support. Every feature is optimized for controller input. CREATE SHORTCUTS Create and link your own shortcuts. Launch installed games, emulator shortcuts, web links or whatever shortcut you want. CREATE COLLECTIONS You can create folders and sort your games into collections EASY GAME MANAGEMENT Add games in seconds using the share button from the home screen, or enter them manually. GAME IMAGE SCRAPING LudiHub supports SteamGridDB for game image scraping. RETROACHIEVEMENTS Track your retro game progress in the achievement view. DEEPLINK SUPPORT LudiHub detects deeplinks for games of the following emulators when adding a custom game: Delta, Gamma, ManicEmu, JoyEmu, MeloNX, XeniOS, PPSSPP, DukeX, Armsx2, RetroArch and Provenance. It also supports normal URLs and deeplinks. IMPORT GAMES You can import the games from your favorite emulators with one tap!  DESIGNED FOR GAMERS Customizable for your owned individual preference Organize games your way Touch and controller-optimized interface",
+      "iconURL": "https://i.imgur.com/003AgnQ.png",
+      "tintColor": "#0cb4dc",
+      "category": "utilities",
+      "screenshots": {
+        "iphone": [
+          "https://i.imgur.com/5DDEwsq.png",
+          "https://i.imgur.com/nlezVlo.png",
+          "https://i.imgur.com/xbEups5.png",
+          "https://i.imgur.com/y4aEVBz.png",
+          "https://i.imgur.com/qwG5o94.png",
+          "https://i.imgur.com/po7ScU2.jpeg"
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://i.imgur.com/2tZT3vd.jpeg",
+            "width": 2732,
+            "height": 2048
+          },
+          {
+            "imageURL": "https://i.imgur.com/nBa1uO1.png",
+            "width": 2732,
+            "height": 2048
+          },
+          {
+            "imageURL": "https://i.imgur.com/Q6XM81u.jpeg",
+            "width": 2732,
+            "height": 2048
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "2.0.6",
+          "date": "2026-07-17T12:35:00+02:00",
+          "localizedDescription": "You can now import games from RetroArch (Available in the latest RetroArch Beta) Fixed some bugs on the iPad that caused certain UI elements to not behave properly when returning to the app.",
+          "downloadURL": "https://github.com/polyxneg/LudiHub/releases/download/2.0.6/LudiHub.ipa",
+          "size": 10500000
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "LudiHub uses Bluetooth to read your game controller's battery level."
+        }
+      }
+    }
+  ],
+  "news": []
 }
