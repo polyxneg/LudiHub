@@ -40,6 +40,13 @@
       },
       "versions": [
         {
+          "version": "2.0.8",
+          "date": "2026-07-23T12:00:00+02:00",
+          "localizedDescription": "This version tidies up the user interface settings menu but also adds the following:\n- Added a toggle to hide the game placeholder squares\n- Added a toggle to hide the add folder button\n- Added a new animated background selection menu",
+          "downloadURL": "https://github.com/polyxneg/LudiHub/releases/download/2.0.8/LudiHub.ipa",
+          "size": 10606030
+        },
+        {
           "version": "2.0.7",
           "date": "2026-07-22T12:00:00+02:00",
           "localizedDescription": "Fixed a bug that caused the app to crash when using a big amount of animated gifs as game/folder images.",
